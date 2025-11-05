@@ -1,0 +1,27 @@
+### GET all
+GET http://localhost:3000/offers
+### GET one
+GET http://localhost:3000/offers/69064b6febe0188799f6c470
+### GET filtered
+GET http://localhost:3000/offers?status=published
+### GET filtered
+http://localhost:3000/offers?page=1&limit=10&status=published
+### DELETE
+DELETE http://localhost:3000/offers/6906741c69d42a5eba991d3d
+### POST
+POST http://localhost:3000/offers
+Content-Type: application/json
+
+{
+   "title": "Backend Developer",
+   "description": "Krótki opis oferty 8",
+   "status": "draft"
+}
+### PATCH
+PATCH http://localhost:3000/offers/6906741c69d42a5eba991d3d
+Content-Type: application/json
+
+{
+   "description": "Zaktualizowany opis oferty 555",
+   "status": "published"
+ }

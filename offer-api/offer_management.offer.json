@@ -1,0 +1,457 @@
+[{
+  "_id": {
+    "$oid": "690618100b4b97145866c6a2"
+  },
+  "title": "Backend Developer",
+  "description": "Krótki opis oferty.",
+  "status": "draft",
+  "createdAt": {
+    "$date": "2025-11-01T12:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-01T12:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "690618790b4b97145866c6a5"
+  },
+  "title": "Front end Developer",
+  "description": "Oferta 34",
+  "status": "draft",
+  "createdAt": {
+    "$date": "2025-11-01T13:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-01T13:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69061ef70b4b97145866c6a8"
+  },
+  "title": "Backend Developer (Node.js)",
+  "description": "Praca nad API w NestJS, REST/JSON.",
+  "status": "published",
+  "createdAt": {
+    "$date": "2025-11-01T10:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-01T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69061ef70b4b97145866c6a9"
+  },
+  "title": "Frontend Developer (Angular)",
+  "description": "UI w Angular 13+, RxJS.",
+  "status": "draft",
+  "createdAt": {
+    "$date": "2025-11-01T10:02:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-01T10:02:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69061ef70b4b97145866c6aa"
+  },
+  "title": "Full-Stack Developer (NestJS + React)",
+  "description": "End-to-end feature’y, CI/CD.",
+  "status": "published",
+  "createdAt": {
+    "$date": "2025-11-01T10:04:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-01T10:04:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69061ef70b4b97145866c6ab"
+  },
+  "title": "QA Engineer",
+  "description": "Testy automatyczne i manualne.",
+  "status": "draft",
+  "createdAt": {
+    "$date": "2025-11-01T10:06:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-01T10:06:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69061ef70b4b97145866c6ac"
+  },
+  "title": "DevOps Engineer",
+  "description": "Docker, CI/CD, monitoring.",
+  "status": "published",
+  "createdAt": {
+    "$date": "2025-11-01T10:08:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-01T10:08:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69061ef70b4b97145866c6ad"
+  },
+  "title": "Data Engineer",
+  "description": "Przepływy danych, ETL, pipeline’y.",
+  "status": "draft",
+  "createdAt": {
+    "$date": "2025-11-01T10:10:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-01T10:10:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69061ef70b4b97145866c6ae"
+  },
+  "title": "Mobile Developer (Flutter)",
+  "description": "Aplikacje mobilne cross-platform.",
+  "status": "published",
+  "createdAt": {
+    "$date": "2025-11-01T10:12:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-01T10:12:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69061ef70b4b97145866c6af"
+  },
+  "title": "Mobile Developer (React Native)",
+  "description": "RN, integracje z API.",
+  "status": "draft",
+  "createdAt": {
+    "$date": "2025-11-01T10:14:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-01T10:14:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69061ef70b4b97145866c6b0"
+  },
+  "title": "UI/UX Designer",
+  "description": "Makiety, prototypy, design system.",
+  "status": "published",
+  "createdAt": {
+    "$date": "2025-11-01T10:16:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-01T10:16:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69061ef70b4b97145866c6b1"
+  },
+  "title": "Product Manager",
+  "description": "Roadmapa, backlog, discovery.",
+  "status": "draft",
+  "createdAt": {
+    "$date": "2025-11-01T10:18:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-01T10:18:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69061ef70b4b97145866c6b2"
+  },
+  "title": "Scrum Master",
+  "description": "Facylitacja, metryki, usprawnienia.",
+  "status": "published",
+  "createdAt": {
+    "$date": "2025-11-01T10:20:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-01T10:20:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69061ef70b4b97145866c6b3"
+  },
+  "title": "Technical Writer",
+  "description": "Dokumentacja techniczna, guideline’y.",
+  "status": "draft",
+  "createdAt": {
+    "$date": "2025-11-01T10:22:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-01T10:22:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69061ef70b4b97145866c6b4"
+  },
+  "title": "Cloud Architect (AWS)",
+  "description": "Projektowanie rozwiązań w chmurze.",
+  "status": "published",
+  "createdAt": {
+    "$date": "2025-11-01T10:24:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-01T10:24:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69061ef70b4b97145866c6b5"
+  },
+  "title": "Security Engineer",
+  "description": "Bezpieczeństwo aplikacji i infrastruktury.",
+  "status": "draft",
+  "createdAt": {
+    "$date": "2025-11-01T10:26:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-01T10:26:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69061ef70b4b97145866c6b6"
+  },
+  "title": "Database Administrator (MongoDB)",
+  "description": "Backupy, indeksy, wydajność.",
+  "status": "published",
+  "createdAt": {
+    "$date": "2025-11-01T10:28:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-01T10:28:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69061ef70b4b97145866c6b7"
+  },
+  "title": "Site Reliability Engineer (SRE)",
+  "description": "SLA/SLO, obserwowalność, reliability.",
+  "status": "draft",
+  "createdAt": {
+    "$date": "2025-11-01T10:30:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-01T10:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69061ef70b4b97145866c6b8"
+  },
+  "title": "Golang Developer",
+  "description": "Serwisy wysokowydajne w Go.",
+  "status": "published",
+  "createdAt": {
+    "$date": "2025-11-01T10:32:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-01T10:32:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69061ef70b4b97145866c6b9"
+  },
+  "title": "Python Developer",
+  "description": "API i skrypty w Pythonie.",
+  "status": "draft",
+  "createdAt": {
+    "$date": "2025-11-01T10:34:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-01T10:34:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69061ef70b4b97145866c6ba"
+  },
+  "title": "Java Developer",
+  "description": "Usługi w Spring Boot.",
+  "status": "published",
+  "createdAt": {
+    "$date": "2025-11-01T10:36:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-01T10:36:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69061ef70b4b97145866c6bb"
+  },
+  "title": ".NET Developer",
+  "description": "API w ASP.NET Core.",
+  "status": "draft",
+  "createdAt": {
+    "$date": "2025-11-01T10:38:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-01T10:38:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69061ef70b4b97145866c6bc"
+  },
+  "title": "PHP Developer",
+  "description": "Laravel, integracje REST.",
+  "status": "published",
+  "createdAt": {
+    "$date": "2025-11-01T10:40:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-01T10:40:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69064b50ebe0188799f6c46e"
+  },
+  "title": "Backend Developer",
+  "description": "Krótki opis oferty",
+  "status": "draft",
+  "createdAt": {
+    "$date": "2025-11-01T18:02:56.568Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-01T18:02:56.568Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69065c684b68c02f07f39c78"
+  },
+  "title": "Backend Developer",
+  "description": "Krótki opis oferty 3",
+  "status": "draft",
+  "createdAt": {
+    "$date": "2025-11-01T19:15:52.922Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-01T19:15:52.922Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69065c6d4b68c02f07f39c7a"
+  },
+  "title": "Backend Developer",
+  "description": "Krótki opis oferty 4",
+  "status": "draft",
+  "createdAt": {
+    "$date": "2025-11-01T19:15:57.795Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-01T19:15:57.795Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690673d369d42a5eba991d38"
+  },
+  "title": "Backend Developer",
+  "description": "Krótki opis oferty 8",
+  "status": "draft",
+  "createdAt": {
+    "$date": "2025-11-01T20:55:47.568Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-01T20:55:47.568Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6906741d69d42a5eba991d3f"
+  },
+  "title": "Backend Developer",
+  "description": "Krótki opis oferty 8",
+  "status": "draft",
+  "createdAt": {
+    "$date": "2025-11-01T20:57:01.403Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-01T20:57:01.403Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6906782011ae9f06a75f2446"
+  },
+  "title": "Backend Developer",
+  "description": "Krótki opis oferty 8",
+  "status": "draft",
+  "createdAt": {
+    "$date": "2025-11-01T21:14:08.328Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-01T21:14:08.328Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6906782211ae9f06a75f2448"
+  },
+  "title": "Backend Developer",
+  "description": "Krótki opis oferty 8",
+  "status": "draft",
+  "createdAt": {
+    "$date": "2025-11-01T21:14:10.749Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-01T21:14:10.749Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6906784b11ae9f06a75f244a"
+  },
+  "title": "Backend Developer",
+  "description": "Krótki opis oferty 8",
+  "status": "draft",
+  "createdAt": {
+    "$date": "2025-11-01T21:14:51.076Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-01T21:14:51.076Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6906786811ae9f06a75f244c"
+  },
+  "title": "Backend Developer",
+  "description": "Krótki opis oferty 8",
+  "status": "draft",
+  "createdAt": {
+    "$date": "2025-11-01T21:15:20.049Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-01T21:15:20.049Z"
+  },
+  "__v": 0
+}]
