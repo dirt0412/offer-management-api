@@ -98,3 +98,13 @@ DELETE http://localhost:3000/offers/{{id}}
 - **Jest** for testing
 - **class-validator** for DTO validation
 - **TypeScript**
+
+
+---
+
+## 📖 API Docs (Swagger)
+
+Swagger UI is available after starting the app:
+
+- Open **http://localhost:3000/docs**
+- OpenAPI JSON: **http://localhost:3000/docs-json**
